@@ -78,6 +78,7 @@ npm install
 npm start
 ```
 (Client runs on http://localhost:3000)
+---
 
 ## 📸 Screenshots (Optional)
 ### Home Page:
@@ -88,6 +89,7 @@ npm start
 ![alt text](screenshots/Login.png)
 ### Register Page:
 ![alt text](screenshots/Register.png)
+---
 
 ## 👤 Author
 **Ravi Kumar**
