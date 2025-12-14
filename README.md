@@ -90,6 +90,7 @@ npm start
 ![alt text](screenshots/Login.png)
 ### Register Page:
 ![alt text](screenshots/Register.png)
+
 ---
 
 ## 👤 Author
