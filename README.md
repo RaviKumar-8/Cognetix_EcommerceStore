@@ -78,6 +78,7 @@ npm install
 npm start
 ```
 (Client runs on http://localhost:3000)
+
 ---
 
 ## 📸 Screenshots (Optional)
